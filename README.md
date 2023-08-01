@@ -1,4 +1,4 @@
-# KRYPT
+# KRYPT - BLOCKCHAIN BASED CRYPTO EXCHANGE APPLICATION
 Blockchain Based Crypto Exchange Application is a
 decentralized crypto exchange platform. Using Blockchain
 for exchanges allows for faster and less expensive
